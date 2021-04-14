@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm John Carmichael
+> Cloud Developer
 
-<!--
-**JohnCarmichael3000/JohnCarmichael3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<p>
+  .
+</p>
+</div>  
 
-Here are some ideas to get you started:
+[![John Carmichael's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncarmichael3000)](https://github.com/johncarmichael3000/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 📫 How to reach me: </h3>
+<p>
+<a href="https://twitter.com/Vancouver6042" target="_blank"><img src="https://img.shields.io/twitter/follow/Vancouver6042?style=social"></a>
+</p>
