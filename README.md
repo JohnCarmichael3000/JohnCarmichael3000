@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm John Carmichael
+<br />
 > Cloud Developer
-
-
+<br />
 <div>
 <p>
   John Carmichael is an experienced developer with a long track record of successful projects.
@@ -15,6 +15,7 @@
 </p>
 </div>  
 
+
 ## 🧰 Languages and Tools:
 
 <p>
@@ -27,7 +28,7 @@
 
 <h3> 📫 How to reach me: </h3>
 <p>
-<a href="https://twitter.com/Vancouver6042" target="_blank"><img src="https://img.shields.io/twitter/follow/Vancouver6042?style=social"></a>
+  Twitter: <a href="https://twitter.com/Vancouver6042" target="_blank">@Vancouver6042</a>
 </p>
 <br />
 
