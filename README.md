@@ -5,12 +5,14 @@
 <p>
   John Carmichael is an experienced developer with a long track record of successful projects.
  
-  🔭 I’m currently working on all things Cloud, development and automation/scripting with C#, PowerShell, etc. Done a bunch of C#/SQL.
+  🔭 I’m currently working on all things Cloud, development and automation/scripting with C#, PowerShell, DevOps, etc. Done a bunch of C#/SQL.
   
   🌱 I’m currently learning more about Functions (most familiar: Azure, but also AWS Lambda/GCP), Python. 
      Suffered from a bunch of server drift in the past, now I firmly believe serverless is the future.
      
   ⚡ Fun fact: I’ve run 10 marathons and been on some tech projects that felt like marathons!
+  
+  Quote: Oct 2020 Bill Gates responding to hypothetical junior job interview questions from Stephen Curry on YouTube: "I like to be on a team... I like thinking through how we can anticipate the future, software is cool." 
 </p>
 </div>  
 
