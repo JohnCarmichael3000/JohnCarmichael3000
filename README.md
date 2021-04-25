@@ -12,7 +12,7 @@
      
   ⚡ Fun fact: I’ve run 10 marathons and been on some tech projects that felt like marathons!
   
-  Quote: Oct 2020 Bill Gates responding to hypothetical junior job interview questions from Stephen Curry on YouTube: "I like to be on a team... I like thinking through how we can anticipate the future, software is cool." 
+  Quote: Oct 2020 Bill Gates responding to hypothetical junior job interview questions from Stephen Curry on YouTube "Why would should we hire you?": "I like to be on a team... I like thinking through how we can anticipate the future, software is cool." 
 </p>
 </div>  
 
