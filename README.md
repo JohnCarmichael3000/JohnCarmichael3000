@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm John Carmichael
-> Cloud Developer
+> Cloud Developer, Devops Engineer, Azure Integrations
 <br />
 <div>
 <p>
