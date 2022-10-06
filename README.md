@@ -5,7 +5,7 @@
 <p>
 I'm an experienced developer with a track record of successfully launched projects. I’m currently working on all things Cloud, development and automation/scripting with C#, PowerShell, Python, SQL, DevOps, Azure, etc.
 
-🚀 One thing I'm focusing on is Microservices/Serverless/Functions. I'm most familiar with Azure, but also AWS Lambdas. I’ve experienced server drift in the past, now I firmly believe serverless is the way forward.
+🚀 One thing I'm focusing on is Microservices/Serverless/Functions. I'm most familiar with Azure, but also AWS Lambdas. I’ve suffered server drift in the past, now I firmly believe serverless is the way forward.
 
 😃 Fun fact about me: I’ve run 10 marathons!
 
@@ -24,6 +24,3 @@ I'm an experienced developer with a track record of successfully launched projec
 <h3> 📫 How to reach me: </h3>
 <p>Twitter: <a href="https://twitter.com/Vancouver6042" target="_blank">@Vancouver6042</a></p>
 <br />
-
-[![John Carmichael's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncarmichael3000)](https://github.com/johncarmichael3000/github-readme-stats)
-
