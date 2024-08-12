@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm John Carmichael
-> Cloud Developer, Devops Engineer, Azure Integrations
+> Cloud Developer, Devops Engineer, Cloud/Azure Integrations, Automation. 
 <br />
 <div>
 <p>
-I'm an experienced developer with a track record of successfully launched projects. I’m currently working on all things Cloud, development and automation/scripting with C#, PowerShell, Python, SQL, DevOps, Azure, etc.
+As a seasoned developer, I continuously evolve in the fast-paced world of technology. Currently, I'm deep diving into the realms of cloud computing, DevOps, and serverless architectures, leveraging C#, PowerShell, Python and Azure to streamline and innovate.
 
-🚀 One thing I'm focusing on is Microservices/Serverless/Functions. I'm most familiar with Azure, but also AWS Lambdas. I’ve suffered server drift in the past, now I firmly believe serverless is the way forward.
+🚀 Embracing the serverless paradigm, I specialize in Microservices and Functions, primarily on Azure with some AWS. My journey from server drift to serverless has reinforced my belief in its potential to reshape how we build and deploy applications.
 
-😃 Fun fact about me: I’ve run 10 marathons!
+😃 On a lighter note, I'm a marathon enthusiast with 10 races under my belt—a testament to my dedication and perseverance, traits I bring from the track to my coding.
 
-👍 Great Quote I like: From an October 2020 Youtube video with Bill Gates and Stephen Curry. Bill is posed with a hypothetical junior job interview question, "Why should we hire you?". Bill's response: "I like to be on a team. I like thinking through how we can anticipate the future, software is cool." Of course he could have given a long and complicated response, but his answer is just good software development in a nutshell, imho.
+👍  A quote that resonates with me is by Bill Gates, during a 2020 interview with Stephen Curry. When asked hypothetically why he should be hired, Gates replied: "I like to be on a team. I like thinking through how we can anticipate the future, software is cool." This response perfectly encapsulates the essence of effective software development with its focus on teamwork and forward-thinking.
 </p>
 </div>  
 
